@@ -1,0 +1,13 @@
+node_modules/
+
+
+# Typescript v1 declaration files
+
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+index.lock
+# dotenv environment variables file
+.env
